@@ -13,4 +13,7 @@ mult = a * b;
 
 soma2 = a + a;
 
+soma3 = b + b;
+
+
 }
