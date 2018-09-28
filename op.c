@@ -11,7 +11,9 @@ soma = a + b;
 sub = a - b;
 mult = a * b;
 
-soma2 = b + b;
+soma2 = a + a;
+
+soma3 = b + b;
 
 
 }
