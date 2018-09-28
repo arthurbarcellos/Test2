@@ -8,5 +8,6 @@ int b = 20;
 
 soma = a + b;
 sub = a - b;
+mult = a * b;
 
 }
