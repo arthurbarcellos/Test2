@@ -9,6 +9,7 @@ int b = 20;
 divisao = a / b;
 soma = a + b;
 sub = a - b;
+mult = a * b;
 
 
 }
